@@ -1,2 +1,4 @@
-git config --global user.name "Firstname Lastname"
-git config --global user.email "yoursignupgithubemail@domain.com"
+# GitHub.com
+Host github.com
+Preferredauthentications publickey
+IdentityFile ~/.ssh/github/id_ed25519
